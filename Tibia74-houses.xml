@@ -28,7 +28,6 @@
 	<house name="Beach Home Apartments, Flat 14" houseid="26" entryx="32312" entryy="32234" entryz="6" rent="0" townid="2" size="4" />
 	<house name="Beach Home Apartments, Flat 15" houseid="27" entryx="32309" entryy="32234" entryz="6" rent="0" townid="2" size="4" />
 	<house name="Beach Home Apartments, Flat 16" houseid="28" entryx="32303" entryy="32244" entryz="6" rent="0" townid="2" size="14" />
-	<house name="Alai Flats, Flat 01" houseid="29" entryx="32377" entryy="32256" entryz="7" rent="0" townid="2" size="13" />
 	<house name="Alai Flats, Flat 02" houseid="30" entryx="32382" entryy="32256" entryz="7" rent="0" townid="2" size="13" />
 	<house name="Alai Flats, Flat 03" houseid="31" entryx="32374" entryy="32264" entryz="7" rent="0" townid="2" size="13" />
 	<house name="Alai Flats, Flat 04" houseid="32" entryx="32386" entryy="32261" entryz="7" rent="0" townid="2" size="13" />
@@ -58,8 +57,6 @@
 	<house name="Lower Swamp Lane 3" houseid="56" entryx="32368" entryy="32262" entryz="7" rent="300" townid="2" size="57" />
 	<house name="Upper Swamp Lane 8" houseid="57" entryx="32398" entryy="32256" entryz="7" rent="200" townid="2" size="120" />
 	<house name="Southern Thais Guildhall" houseid="58" entryx="32401" entryy="32254" entryz="7" rent="1500" guildhall="true" townid="2" size="284" />
-	<house name="Upper Swamp Lane 10" houseid="59" entryx="32412" entryy="32256" entryz="7" rent="200" townid="2" size="24" />
-	<house name="Upper Swamp Lane 12" houseid="60" entryx="32419" entryy="32256" entryz="7" rent="200" townid="2" size="45" />
 	<house name="Sorcerer's Avenue 1a" houseid="61" entryx="32300" entryy="32254" entryz="7" rent="100" townid="2" size="16" />
 	<house name="Sorcerer's Avenue 1b" houseid="62" entryx="32300" entryy="32251" entryz="6" rent="100" townid="2" size="12" />
 	<house name="Sorcerer's Avenue 1c" houseid="63" entryx="32300" entryy="32249" entryz="6" rent="105" townid="2" size="16" />
@@ -81,10 +78,6 @@
 	<house name="Main Street 9a, 2nd floor (Shop)" houseid="79" entryx="32377" entryy="32222" entryz="6" rent="0" townid="2" size="11" />
 	<house name="Main Street 9b, 2nd floor (Shop)" houseid="80" entryx="32377" entryy="32224" entryz="6" rent="0" townid="2" size="21" />
 	<house name="Mill Avenue 1 (Shop)" houseid="81" entryx="32398" entryy="32181" entryz="7" rent="0" townid="2" size="18" />
-	<house name="Mill Avenue 2 (Shop)" houseid="82" entryx="32404" entryy="32181" entryz="7" rent="100" townid="2" size="34" />
-	<house name="Mill Avenue 3" houseid="83" entryx="32410" entryy="32184" entryz="7" rent="100" townid="2" size="21" />
-	<house name="Mill Avenue 4" houseid="84" entryx="32413" entryy="32189" entryz="6" rent="100" townid="2" size="21" />
-	<house name="Mill Avenue 5" houseid="85" entryx="32422" entryy="32178" entryz="7" rent="300" townid="2" size="47" />
 	<house name="The City Wall 5a" houseid="86" entryx="32416" entryy="32220" entryz="7" rent="0" townid="2" size="10" />
 	<house name="The City Wall 5b" houseid="87" entryx="32416" entryy="32220" entryz="6" rent="0" townid="2" size="10" />
 	<house name="The City Wall 5c" houseid="88" entryx="32416" entryy="32223" entryz="7" rent="0" townid="2" size="10" />
@@ -106,8 +99,6 @@
 	<house name="The City Wall 3d" houseid="104" entryx="32423" entryy="32208" entryz="6" rent="100" townid="2" size="16" />
 	<house name="The City Wall 3e" houseid="105" entryx="32423" entryy="32203" entryz="6" rent="100" townid="2" size="16" />
 	<house name="The City Wall 3f" houseid="106" entryx="32423" entryy="32198" entryz="6" rent="100" townid="2" size="16" />
-	<house name="The City Wall 1a" houseid="107" entryx="32422" entryy="32189" entryz="7" rent="100" townid="2" size="21" />
-	<house name="The City Wall 1b" houseid="108" entryx="32422" entryy="32189" entryz="6" rent="100" townid="2" size="21" />
 	<house name="Harbour Place 2 (Shop)" houseid="109" entryx="32336" entryy="32210" entryz="7" rent="0" townid="2" size="19" />
 	<house name="Harbour Place 1 (Shop)" houseid="110" entryx="32336" entryy="32222" entryz="7" rent="0" townid="2" size="16" />
 	<house name="Mercenary Tower" houseid="111" entryx="32208" entryy="32437" entryz="7" rent="2500" guildhall="true" townid="2" size="521" />

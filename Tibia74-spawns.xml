@@ -1495,9 +1495,6 @@
 	<spawn centerx="33032" centery="32356" centerz="6" radius="1">
 		<monster name="giant spider" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="32346" centery="32363" centerz="6" radius="4">
-		<npc name="Norf" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="33206" centery="32381" centerz="6" radius="1">
 		<monster name="wasp" x="0" y="0" z="6" spawntime="60" />
 		<monster name="wasp" x="1" y="0" z="6" spawntime="60" />
@@ -4368,10 +4365,10 @@
 		<monster name="elf" x="0" y="0" z="7" spawntime="60" />
 		<monster name="elf" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="32408" centery="32170" centerz="7" radius="1">
+	<spawn centerx="32404" centery="32171" centerz="7" radius="1">
 		<npc name="Gamon" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="32415" centery="32170" centerz="7" radius="2">
+	<spawn centerx="32411" centery="32171" centerz="7" radius="2">
 		<npc name="Topsy" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="32622" centery="32171" centerz="7" radius="1">
@@ -4447,9 +4444,6 @@
 		<monster name="wolf" x="0" y="1" z="7" spawntime="60" />
 		<monster name="wolf" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="32414" centery="32177" centerz="7" radius="2">
-		<npc name="Turvy" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="32655" centery="32177" centerz="7" radius="1">
 		<monster name="snake" x="0" y="0" z="7" spawntime="60" />
 		<monster name="snake" x="1" y="0" z="7" spawntime="60" />
@@ -4461,6 +4455,9 @@
 	</spawn>
 	<spawn centerx="32045" centery="32178" centerz="7" radius="1">
 		<monster name="troll" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="32410" centery="32178" centerz="7" radius="2">
+		<npc name="Turvy" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="31971" centery="32179" centerz="7" radius="1">
 		<monster name="snake" x="0" y="0" z="7" spawntime="60" />
@@ -5106,11 +5103,6 @@
 	<spawn centerx="32325" centery="32276" centerz="7" radius="2">
 		<npc name="wyat" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="32658" centery="32276" centerz="7" radius="1">
-		<monster name="wild warrior" x="0" y="0" z="7" spawntime="60" />
-		<monster name="wild warrior" x="1" y="0" z="7" spawntime="60" />
-		<monster name="wild warrior" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="32606" centery="32277" centerz="7" radius="1">
 		<monster name="deer" x="0" y="0" z="7" spawntime="60" />
 		<monster name="deer" x="1" y="0" z="7" spawntime="60" />
@@ -5132,17 +5124,10 @@
 		<monster name="minotaur" x="0" y="0" z="7" spawntime="60" />
 		<monster name="minotaur" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="32641" centery="32281" centerz="7" radius="1">
-		<monster name="wild warrior" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="32773" centery="32281" centerz="7" radius="1">
 		<monster name="scorpion" x="0" y="0" z="7" spawntime="60" />
 		<monster name="scorpion" x="1" y="0" z="7" spawntime="60" />
 		<monster name="scorpion" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="32633" centery="32282" centerz="7" radius="1">
-		<monster name="wild warrior" x="0" y="0" z="7" spawntime="60" />
-		<monster name="wild warrior" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="33300" centery="32282" centerz="7" radius="1">
 		<monster name="minotaur" x="0" y="0" z="7" spawntime="60" />
@@ -5204,10 +5189,6 @@
 		<monster name="orc berserker" x="0" y="1" z="7" spawntime="60" />
 		<monster name="orc berserker" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="32624" centery="32288" centerz="7" radius="1">
-		<monster name="wild warrior" x="0" y="0" z="7" spawntime="60" />
-		<monster name="wild warrior" x="1" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="32819" centery="32288" centerz="7" radius="1">
 		<monster name="orc shaman" x="0" y="0" z="7" spawntime="60" />
 		<monster name="orc shaman" x="1" y="0" z="7" spawntime="60" />
@@ -5231,10 +5212,6 @@
 		<monster name="rabbit" x="0" y="0" z="7" spawntime="60" />
 		<monster name="rabbit" x="1" y="0" z="7" spawntime="60" />
 		<monster name="rabbit" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="32646" centery="32291" centerz="7" radius="1">
-		<monster name="wild warrior" x="0" y="0" z="7" spawntime="60" />
-		<monster name="wild warrior" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="32821" centery="32291" centerz="7" radius="1">
 		<monster name="orc spearman" x="0" y="0" z="7" spawntime="60" />
@@ -5323,11 +5300,6 @@
 	<spawn centerx="32427" centery="32312" centerz="7" radius="1">
 		<monster name="wasp" x="0" y="0" z="7" spawntime="60" />
 		<monster name="wasp" x="1" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="32622" centery="32316" centerz="7" radius="1">
-		<monster name="wild warrior" x="0" y="0" z="7" spawntime="60" />
-		<monster name="wild warrior" x="1" y="0" z="7" spawntime="60" />
-		<monster name="wild warrior" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="32740" centery="32316" centerz="7" radius="1">
 		<monster name="deer" x="0" y="0" z="7" spawntime="60" />
@@ -5499,10 +5471,6 @@
 		<monster name="wasp" x="0" y="0" z="7" spawntime="60" />
 		<monster name="wasp" x="1" y="0" z="7" spawntime="60" />
 		<monster name="wasp" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="32644" centery="32344" centerz="7" radius="1">
-		<monster name="wild warrior" x="0" y="0" z="7" spawntime="60" />
-		<monster name="wild warrior" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="32657" centery="32344" centerz="7" radius="1">
 		<monster name="scorpion" x="0" y="0" z="7" spawntime="60" />
@@ -14854,9 +14822,6 @@
 	<spawn centerx="32516" centery="31889" centerz="11" radius="1">
 		<monster name="dwarf guard" x="0" y="0" z="11" spawntime="60" />
 	</spawn>
-	<spawn centerx="32655" centery="31893" centerz="11" radius="2">
-		<npc name="Pydar" x="0" y="0" z="11" spawntime="60" />
-	</spawn>
 	<spawn centerx="32426" centery="31895" centerz="11" radius="1">
 		<monster name="dwarf guard" x="0" y="0" z="11" spawntime="60" />
 	</spawn>
@@ -16076,9 +16041,6 @@
 	<spawn centerx="32553" centery="31968" centerz="12" radius="1">
 		<monster name="dwarf guard" x="0" y="0" z="12" spawntime="60" />
 		<monster name="dwarf guard" x="1" y="0" z="12" spawntime="60" />
-	</spawn>
-	<spawn centerx="32644" centery="31969" centerz="12" radius="2">
-		<npc name="Kawill" x="0" y="0" z="12" spawntime="60" />
 	</spawn>
 	<spawn centerx="32521" centery="31970" centerz="12" radius="1">
 		<monster name="dwarf guard" x="0" y="0" z="12" spawntime="60" />
