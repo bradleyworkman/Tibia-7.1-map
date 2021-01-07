@@ -883,11 +883,6 @@
 		<monster name="rabbit" x="1" y="0" z="6" spawntime="60" />
 		<monster name="rabbit" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="32892" centery="31767" centerz="6" radius="1">
-		<monster name="orc spearman" x="0" y="0" z="6" spawntime="60" />
-		<monster name="orc spearman" x="1" y="0" z="6" spawntime="60" />
-		<monster name="orc spearman" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="32568" centery="31768" centerz="6" radius="1">
 		<monster name="goblin" x="0" y="0" z="6" spawntime="60" />
 		<monster name="goblin" x="1" y="0" z="6" spawntime="60" />
@@ -933,11 +928,6 @@
 		<monster name="orc warrior" x="0" y="0" z="6" spawntime="60" />
 		<monster name="orc warrior" x="1" y="0" z="6" spawntime="60" />
 		<monster name="orc warrior" x="1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="32892" centery="31776" centerz="6" radius="1">
-		<monster name="orc spearman" x="0" y="0" z="6" spawntime="60" />
-		<monster name="orc spearman" x="1" y="0" z="6" spawntime="60" />
-		<monster name="orc spearman" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="32926" centery="31780" centerz="6" radius="1">
 		<monster name="orc berserker" x="0" y="0" z="6" spawntime="60" />
@@ -1378,6 +1368,9 @@
 	</spawn>
 	<spawn centerx="32093" centery="32180" centerz="6" radius="1">
 		<npc name="Dallheim" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="33325" centery="32182" centerz="6" radius="1">
+		<monster name="skeleton" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="33062" centery="32183" centerz="6" radius="1">
 		<monster name="elf Scout" x="0" y="0" z="6" spawntime="60" />
@@ -2523,6 +2516,10 @@
 	<spawn centerx="32916" centery="31785" centerz="7" radius="1">
 		<monster name="orc berserker" x="0" y="0" z="7" spawntime="60" />
 		<monster name="orc berserker" x="1" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="32895" centery="31786" centerz="7" radius="1">
+		<monster name="cyclops" x="0" y="0" z="7" spawntime="60" />
+		<monster name="cyclops" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="32944" centery="31786" centerz="7" radius="1">
 		<monster name="orc" x="0" y="0" z="7" spawntime="60" />
@@ -4448,6 +4445,9 @@
 		<monster name="snake" x="0" y="0" z="7" spawntime="60" />
 		<monster name="snake" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="33322" centery="32177" centerz="7" radius="1">
+		<monster name="ghost" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="32000" centery="32178" centerz="7" radius="1">
 		<monster name="snake" x="0" y="0" z="7" spawntime="60" />
 		<monster name="snake" x="1" y="0" z="7" spawntime="60" />
@@ -4489,6 +4489,9 @@
 	</spawn>
 	<spawn centerx="33069" centery="32183" centerz="7" radius="1">
 		<monster name="elf Scout" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="33327" centery="32183" centerz="7" radius="1">
+		<monster name="ghost" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="32342" centery="32184" centerz="7" radius="2">
 		<npc name="Harkath Bloodblade" x="0" y="0" z="7" spawntime="60" />
@@ -8298,8 +8301,14 @@
 		<monster name="elf Scout" x="0" y="0" z="8" spawntime="60" />
 		<monster name="elf Scout" x="1" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="33326" centery="32180" centerz="8" radius="1">
+		<monster name="ghoul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="32041" centery="32181" centerz="8" radius="1">
 		<monster name="spider" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33322" centery="32181" centerz="8" radius="1">
+		<monster name="ghost" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="32103" centery="32182" centerz="8" radius="4" />
 	<spawn centerx="32935" centery="32182" centerz="8" radius="1">
