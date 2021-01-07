@@ -834,14 +834,6 @@
 		<monster name="orc shaman" x="0" y="0" z="6" spawntime="60" />
 		<monster name="orc shaman" x="1" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="32973" centery="31749" centerz="6" radius="1">
-		<monster name="orc berserker" x="0" y="0" z="6" spawntime="60" />
-		<monster name="orc berserker" x="1" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="32978" centery="31750" centerz="6" radius="1">
-		<monster name="orc leader" x="0" y="0" z="6" spawntime="60" />
-		<monster name="orc leader" x="1" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="32892" centery="31751" centerz="6" radius="1">
 		<monster name="orc spearman" x="0" y="0" z="6" spawntime="60" />
 		<monster name="orc spearman" x="1" y="0" z="6" spawntime="60" />
@@ -850,11 +842,6 @@
 	</spawn>
 	<spawn centerx="32909" centery="31751" centerz="6" radius="1">
 		<monster name="orc warrior" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="32955" centery="31751" centerz="6" radius="1">
-		<monster name="orc warrior" x="0" y="0" z="6" spawntime="60" />
-		<monster name="orc warrior" x="1" y="0" z="6" spawntime="60" />
-		<monster name="orc warrior" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="32930" centery="31752" centerz="6" radius="1">
 		<monster name="orc shaman" x="0" y="0" z="6" spawntime="60" />
@@ -869,9 +856,6 @@
 		<monster name="orc berserker" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="32947" centery="31759" centerz="6" radius="1">
-		<monster name="orc leader" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="32960" centery="31761" centerz="6" radius="1">
 		<monster name="orc leader" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="32942" centery="31762" centerz="6" radius="1">
@@ -2244,10 +2228,10 @@
 		<monster name="bug" x="0" y="1" z="7" spawntime="60" />
 		<monster name="bug" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="32965" centery="31744" centerz="7" radius="1">
+	<spawn centerx="32965" centery="31747" centerz="7" radius="1">
 		<monster name="orc warrior" x="0" y="0" z="7" spawntime="60" />
 		<monster name="orc warrior" x="1" y="0" z="7" spawntime="60" />
-		<monster name="orc warrior" x="1" y="1" z="7" spawntime="60" />
+		<monster name="orc warrior" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="32348" centery="31748" centerz="7" radius="3">
 		<npc name="Trisha" x="0" y="0" z="7" spawntime="60" />
@@ -2284,6 +2268,10 @@
 		<monster name="orc berserker" x="1" y="0" z="7" spawntime="60" />
 		<monster name="orc berserker" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="32960" centery="31751" centerz="7" radius="1">
+		<monster name="orc berserker" x="0" y="0" z="7" spawntime="60" />
+		<monster name="orc berserker" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="32320" centery="31752" centerz="7" radius="1">
 		<npc name="Barbara" x="0" y="0" z="7" spawntime="60" direction="2" />
 	</spawn>
@@ -2291,10 +2279,6 @@
 		<monster name="orc spearman" x="0" y="0" z="7" spawntime="60" />
 		<monster name="orc spearman" x="1" y="0" z="7" spawntime="60" />
 		<monster name="orc spearman" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="32957" centery="31752" centerz="7" radius="1">
-		<monster name="orc berserker" x="0" y="0" z="7" spawntime="60" />
-		<monster name="orc berserker" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="32315" centery="31753" centerz="7" radius="2">
 		<npc name="Queen Eloise" x="0" y="0" z="7" spawntime="60" />
