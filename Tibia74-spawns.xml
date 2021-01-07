@@ -17185,9 +17185,6 @@
 		<monster name="behemoth" x="1" y="1" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="32715" centery="31643" centerz="14" radius="1" />
-	<spawn centerx="33230" centery="31643" centerz="14" radius="1">
-		<monster name="demon" x="0" y="0" z="14" spawntime="60" />
-	</spawn>
 	<spawn centerx="32712" centery="31644" centerz="14" radius="1">
 		<monster name="ghoul" x="0" y="0" z="14" spawntime="60" />
 		<monster name="ghoul" x="1" y="0" z="14" spawntime="60" />
@@ -17922,10 +17919,6 @@
 	</spawn>
 	<spawn centerx="32440" centery="31636" centerz="15" radius="1">
 		<monster name="stone golem" x="0" y="0" z="15" spawntime="60" />
-	</spawn>
-	<spawn centerx="33203" centery="31640" centerz="15" radius="1">
-		<monster name="demon" x="0" y="0" z="15" spawntime="60" />
-		<monster name="demon" x="1" y="0" z="15" spawntime="60" />
 	</spawn>
 	<spawn centerx="33300" centery="31653" centerz="15" radius="1">
 		<monster name="behemoth" x="0" y="0" z="15" spawntime="60" />
