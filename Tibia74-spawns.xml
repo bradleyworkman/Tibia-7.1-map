@@ -378,10 +378,6 @@
 		<monster name="ghoul" x="0" y="1" z="5" spawntime="60" />
 		<monster name="ghoul" x="1" y="1" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="32431" centery="31592" centerz="5" radius="1">
-		<monster name="valkyrie" x="0" y="0" z="5" spawntime="60" />
-		<monster name="valkyrie" x="1" y="0" z="5" spawntime="60" />
-	</spawn>
 	<spawn centerx="32800" centery="31592" centerz="5" radius="1">
 		<monster name="ghoul" x="0" y="0" z="5" spawntime="60" />
 		<monster name="ghoul" x="1" y="0" z="5" spawntime="60" />
@@ -762,10 +758,6 @@
 		<monster name="skeleton" x="1" y="0" z="6" spawntime="60" />
 		<monster name="ghoul" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="32430" centery="31592" centerz="6" radius="1">
-		<monster name="valkyrie" x="0" y="0" z="6" spawntime="60" />
-		<monster name="valkyrie" x="1" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="32814" centery="31592" centerz="6" radius="1">
 		<monster name="ghoul" x="1" y="0" z="6" spawntime="60" />
 		<monster name="ghoul" x="1" y="1" z="6" spawntime="60" />
@@ -827,9 +819,6 @@
 	<spawn centerx="32642" centery="31709" centerz="6" radius="3">
 		<npc name="Elf Guard" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="32957" centery="31737" centerz="6" radius="1">
-		<monster name="orc berserker" x="0" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="32983" centery="31739" centerz="6" radius="1">
 		<monster name="orc shaman" x="0" y="0" z="6" spawntime="60" />
 		<monster name="orc shaman" x="1" y="0" z="6" spawntime="60" />
@@ -855,7 +844,7 @@
 		<monster name="orc berserker" x="1" y="0" z="6" spawntime="60" />
 		<monster name="orc berserker" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="32947" centery="31759" centerz="6" radius="1">
+	<spawn centerx="32942" centery="31759" centerz="6" radius="1">
 		<monster name="orc leader" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="32942" centery="31762" centerz="6" radius="1">
@@ -1848,11 +1837,6 @@
 		<npc name="Anerui" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="32127" centery="31660" centerz="7" radius="1" />
-	<spawn centerx="32360" centery="31661" centerz="7" radius="1">
-		<monster name="rabbit" x="0" y="0" z="7" spawntime="60" />
-		<monster name="rabbit" x="1" y="0" z="7" spawntime="60" />
-		<monster name="rabbit" x="1" y="1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="32426" centery="31666" centerz="7" radius="1" />
 	<spawn centerx="32734" centery="31668" centerz="7" radius="2" />
 	<spawn centerx="33216" centery="31668" centerz="7" radius="1">
@@ -1933,6 +1917,11 @@
 		<monster name="winter wolf" x="-1" y="1" z="7" spawntime="60" />
 		<monster name="winter wolf" x="0" y="1" z="7" spawntime="60" />
 		<monster name="winter wolf" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="32340" centery="31685" centerz="7" radius="1">
+		<monster name="rabbit" x="0" y="0" z="7" spawntime="60" />
+		<monster name="rabbit" x="1" y="0" z="7" spawntime="60" />
+		<monster name="rabbit" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="33169" centery="31686" centerz="7" radius="1">
 		<monster name="wolf" x="-1" y="-1" z="7" spawntime="60" />
@@ -2190,10 +2179,9 @@
 		<monster name="orc leader" x="0" y="0" z="7" spawntime="60" />
 		<monster name="orc leader" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="32957" centery="31738" centerz="7" radius="1">
+	<spawn centerx="32959" centery="31738" centerz="7" radius="1">
 		<monster name="orc warrior" x="0" y="0" z="7" spawntime="60" />
-		<monster name="orc warrior" x="1" y="0" z="7" spawntime="60" />
-		<monster name="orc warrior" x="1" y="1" z="7" spawntime="60" />
+		<monster name="orc warrior" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="33268" centery="31739" centerz="7" radius="1">
 		<monster name="rabbit" x="0" y="0" z="7" spawntime="60" />
@@ -2206,9 +2194,9 @@
 		<monster name="orc" x="0" y="1" z="7" spawntime="60" />
 		<monster name="orc" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="32955" centery="31740" centerz="7" radius="1">
+	<spawn centerx="32959" centery="31740" centerz="7" radius="1">
 		<monster name="orc spearman" x="0" y="0" z="7" spawntime="60" />
-		<monster name="orc spearman" x="1" y="0" z="7" spawntime="60" />
+		<monster name="orc warrior" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="32894" centery="31741" centerz="7" radius="1">
 		<monster name="orc berserker" x="0" y="0" z="7" spawntime="60" />
@@ -2268,10 +2256,6 @@
 		<monster name="orc berserker" x="1" y="0" z="7" spawntime="60" />
 		<monster name="orc berserker" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="32960" centery="31751" centerz="7" radius="1">
-		<monster name="orc berserker" x="0" y="0" z="7" spawntime="60" />
-		<monster name="orc berserker" x="0" y="1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="32320" centery="31752" centerz="7" radius="1">
 		<npc name="Barbara" x="0" y="0" z="7" spawntime="60" direction="2" />
 	</spawn>
@@ -2292,14 +2276,18 @@
 	<spawn centerx="32320" centery="31755" centerz="7" radius="1">
 		<npc name="Fenbala" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="32966" centery="31755" centerz="7" radius="1">
+		<monster name="orc berserker" x="0" y="0" z="7" spawntime="60" />
+		<monster name="orc berserker" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="32972" centery="31757" centerz="7" radius="1">
 		<monster name="orc shaman" x="0" y="0" z="7" spawntime="60" />
 		<monster name="orc shaman" x="1" y="0" z="7" spawntime="60" />
 		<monster name="orc shaman" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="32949" centery="31758" centerz="7" radius="1">
-		<monster name="orc berserker" x="0" y="0" z="7" spawntime="60" />
-		<monster name="orc berserker" x="1" y="0" z="7" spawntime="60" />
+		<monster name="orc shaman" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="orc shaman" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="32968" centery="31759" centerz="7" radius="1">
 		<monster name="elf" x="0" y="0" z="7" spawntime="60" />
@@ -2308,9 +2296,9 @@
 		<monster name="orc shaman" x="0" y="0" z="7" spawntime="60" />
 		<monster name="orc shaman" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="32948" centery="31761" centerz="7" radius="1">
-		<monster name="orc shaman" x="0" y="0" z="7" spawntime="60" />
-		<monster name="orc shaman" x="1" y="0" z="7" spawntime="60" />
+	<spawn centerx="32947" centery="31762" centerz="7" radius="1">
+		<monster name="orc berserker" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="orc berserker" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="33312" centery="31762" centerz="7" radius="3">
 		<npc name="Albert" x="0" y="0" z="7" spawntime="60" />
