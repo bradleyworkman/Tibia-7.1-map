@@ -1,3 +1,5 @@
+This is an upload of the Tibia 7.1 map produced by [Under Influence](https://otland.net/members/under-influence.54602/)@otland.net; commits reflect changes made in [this thread](https://otland.net/threads/7-1-real-tibia-map-as-close-as-possible.270484/).
+
 Thanks to 222222 Tibia 7.4 Release, I was able to achieve a dream of mine to reduce tibia map to 7.1 (this is 7.4 otbm format still)! I think I covered at least 95% of changed places between 7.1 and 7.4, removed quest/level doors, mailboxes, rookgaard premium, ladders instead of stairs, old quest rooms...
 
 Something that could be inaccurate are some tree placements and the sand south of Darashia.
@@ -99,5 +101,3 @@ Used my memory, old screenshots and tibia world map of 7.1 as a guide. have fun!
 My dream is for someone to make a low rate OT based on this map where everybody goes with no vocation to main.
 
 Updated: look into other posts for updated versions when available.
-
-[OTLand source](https://otland.net/threads/7-1-real-tibia-map-as-close-as-possible.270484/)
